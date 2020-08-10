@@ -1,0 +1,19 @@
+html,body{
+    margin: 20px;
+}
+h1{
+    text-align: center;
+}
+.icone{
+    width: 100%;
+}
+.coluna {
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 40%;
+}
+.dois {
+    width: 40%;
+    padding: 0 2%;
+}
